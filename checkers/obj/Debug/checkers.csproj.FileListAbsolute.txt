@@ -1,0 +1,18 @@
+d:\users\301-04\documents\visual studio 2015\Projects\checkers\checkers\bin\Debug\checkers.exe.config
+d:\users\301-04\documents\visual studio 2015\Projects\checkers\checkers\bin\Debug\checkers.exe
+d:\users\301-04\documents\visual studio 2015\Projects\checkers\checkers\bin\Debug\checkers.pdb
+d:\users\301-04\documents\visual studio 2015\Projects\checkers\checkers\obj\Debug\checkers.csprojResolveAssemblyReference.cache
+d:\users\301-04\documents\visual studio 2015\Projects\checkers\checkers\obj\Debug\checkers.exe
+d:\users\301-04\documents\visual studio 2015\Projects\checkers\checkers\obj\Debug\checkers.pdb
+C:\Users\Евгений\Downloads\checkers\checkers\checkers\bin\Debug\checkers.exe.config
+C:\Users\Евгений\Downloads\checkers\checkers\checkers\obj\Debug\checkers.exe
+C:\Users\Евгений\Downloads\checkers\checkers\checkers\obj\Debug\checkers.pdb
+C:\Users\Евгений\Downloads\checkers\checkers\checkers\bin\Debug\checkers.exe
+C:\Users\Евгений\Downloads\checkers\checkers\checkers\bin\Debug\checkers.pdb
+C:\Users\Евгений\Downloads\checkers\checkers\checkers\obj\Debug\checkers.csprojResolveAssemblyReference.cache
+D:\ШАГ\домашка\C#\checkers\checkers\bin\Debug\checkers.exe.config
+D:\ШАГ\домашка\C#\checkers\checkers\obj\Debug\checkers.exe
+D:\ШАГ\домашка\C#\checkers\checkers\obj\Debug\checkers.pdb
+D:\ШАГ\домашка\C#\checkers\checkers\bin\Debug\checkers.exe
+D:\ШАГ\домашка\C#\checkers\checkers\bin\Debug\checkers.pdb
+D:\ШАГ\домашка\C#\checkers\checkers\obj\Debug\checkers.csprojResolveAssemblyReference.cache
